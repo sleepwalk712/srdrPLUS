@@ -8,3 +8,4 @@ Ahoy.api = false
 # we recommend configuring local geocoding first
 # see https://github.com/ankane/ahoy#geocoding
 Ahoy.geocode = false
+Ahoy.cookies = false
